@@ -10,9 +10,16 @@ export default function Home() {
     <div>
       <Navbar></Navbar>
       <Hero />
-      <MyStory />
-      <MySkills />
-      <Projects />
+      <div id="mystory">
+        <MyStory />
+      </div>
+      <div id="myskills">
+        <MySkills />
+      </div>
+      <div id="projects">
+        <Projects />
+      </div>
+
     </div>
 
   );

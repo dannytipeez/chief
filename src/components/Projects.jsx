@@ -14,7 +14,7 @@ function Projects(props) {
                         <div className="p-4">
                             <h3 className="mb-2 text-lg font-semibold">Mkulima ChapChap</h3>
                             <p className="mb-4 text-white">This is a farm management system to help you organize your farm; with farm management tools, services, an intuitive UI dashboard and clear to read farm reports.</p>
-                            <a href="#" className="text-blue-500 hover:underline">View Project</a>
+                            <a href="/mkulimachapchap" className="text-green-500 hover:underline">View Project</a>
                         </div>
                     </div>
 
@@ -23,7 +23,7 @@ function Projects(props) {
                         <div className="p-4">
                             <h3 className="mb-2 text-lg font-semibold">Home Budget</h3>
                             <p className="mb-4 text-white">This is a budgeting app created using react js. The 'database' used is the localstorage, so every budget and expense is saved in your browser's localStorage. You can create a budget, assign expenses to use in the budget and it automatically creates records and provides visual graphs to see how you spend your money.</p>
-                            <a href="#" className="text-blue-500 hover:underline">View Project</a>
+                            <a href="/budgetapp" className="text-green-500 hover:underline">View Project</a>
                         </div>
                     </div>
 

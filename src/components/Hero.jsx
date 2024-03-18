@@ -8,7 +8,7 @@ function Hero(props) {
 
                 <div class="md:w-1/2 md:pr-8">
                     <h1 class="text-2xl md:text-4xl font-bold mb-4">Hello friend,</h1>
-                    <p class="text-lg md:text-xl mb-4 font-mono">My name is <span class="font-mono text-red-500">Daniel Kariuki</span>. I am a software engineer based in Nairobi, Kenya. </p>
+                    <p class="text-lg md:text-xl mb-4 font-mono">My name is <span class="font-mono text-green-500">Daniel Kariuki</span>. I am a software engineer based in Nairobi, Kenya. </p>
                     <p class="text-lg md:text-xl mb-4">This is my Dev journey </p>
 
                 </div>
